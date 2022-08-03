@@ -8,7 +8,7 @@ import { actionTypes } from "./reducer";
 import "./Search.css";
 
 function Search({ hideButtons = false }) {
-  const [{}, dispatch] = useStateValue();
+  const [dispatch] = useStateValue();
 
   const [input, setInput] = useState("");
   //useHistory replaced by useNavigate hook.
