@@ -1,3 +1,11 @@
+[Live preview](https://boogle-777.web.app/)
+
 # Google clone - Boogle
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Deployed using Firebase - [Live preview](https://boogle-777.web.app/)
+
+## Tools and Technologies used: 
+  - ReactJS
+  - React Router
+  - Material UI
+  
+  ### ### This web app has the search functionality Google leveraging the google search API, To install and view on your local machine fork and clone the project and run: <code>npm install</code>, to install all its dependencies.
+
